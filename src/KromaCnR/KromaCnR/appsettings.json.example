@@ -1,0 +1,9 @@
+﻿{
+  "ConnectionStrings": {
+    "MongoConnection": "[INSERT MONGODB CONNECTION STRING HERE]"
+  },
+  "Database": "[INSERT MONGODB DATABASE HERE]",
+  "Collections": {
+    "UserCollection": "users"
+  }
+}

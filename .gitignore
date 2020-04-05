@@ -4,6 +4,7 @@ samp-license.txt
 server.cfg
 server-readme.txt
 server_log.txt
+appsettings.json
 
 codepages/
 gamemodes/

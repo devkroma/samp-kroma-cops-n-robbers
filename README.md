@@ -19,4 +19,6 @@ A SA:MP Cops 'n' Robbers gamemode written using SampSharp
 * Edit `server.cfg` and change `rcon_password` value
 * Run `samp-server.exe`
 * Open `src/KromaCnR/KromaCnR.sln` in Visual Studio
+* Create a new file under `KromaCnR` called `appsettings.json`
+* Copy contents of `appsettings.json.example` to `appsettings.json` and paste your MongoDB connection string
 * Run in Visual Studio
